@@ -4,10 +4,14 @@
 <!DOCTYPE html>
 <head>
 	<meta charset="UTF-8">
-	<title>Fruit Page</title>
+	<title>Customer Receipt</title>
 </head>
 <body>
-    <h1>Fruits of the day</h1>
-    <h2><c:out value="${fruit}"/></h2>
+    <h1>Receipt</h1>
+    <h2><c:out value="${name}"/></h2>
+    <h2><c:out value="${itemName}"/></h2>
+    <h2><c:out value="${price}"/></h2>
+    <h2><c:out value="${description}"/></h2>
+    <h2><c:out value="${vendor}"/></h2>
 </body>
 </head>
