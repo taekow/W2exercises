@@ -7,7 +7,7 @@
 	<title>Fruit Page</title>
 </head>
 <body>
-    <h1>Fruits of the day</h1>
-    <h2><c:out value="${fruit}"/></h2>
+    <h1>Fruits of the day</h1>
+    <h2><c:out value="${fruit}"/></h2>
 </body>
 </head>

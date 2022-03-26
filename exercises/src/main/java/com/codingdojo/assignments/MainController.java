@@ -5,8 +5,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class MainController {
-	@RequestMapping()
+	
+	@RequestMapping("/cssfile")
 	public String index() {
-		return "index.jsp";
+	    return "index.jsp";
 	}
 }
