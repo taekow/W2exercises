@@ -4,6 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="UTF-8">
 	<title>Display Time</title>
 	<!-- YOUR own local CSS -->
 	<link rel="stylesheet" type="text/css" href="/css/style.css">
